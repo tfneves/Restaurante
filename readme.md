@@ -1,5 +1,7 @@
 <h1>Rotas Restaurante</h1>
 
+<!-- COPIAR MODELO ROTA -->
+
 <h3>Nome Rota</h3>
 <h4>Descrição:</h4>
 <p>Breve descrição da rota</p>
@@ -24,3 +26,5 @@
   }
   ```
 </ul>
+
+<!-- COPIAR MODELO ROTA -->
