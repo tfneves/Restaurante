@@ -4,8 +4,9 @@
 
 <h3>Nome Rota</h3>
 <h4>Descrição:</h4>
-<p> Rota criada - mesaController : "/mesa "</p>
-<p> Rota criada - pedidoController : "/pedido "</p>
+<p> Rota criada - mesaController   : "/mesa"</p>
+<p> Rota criada - pedidoController : "/pedido"</p>
+<p> Rota criada - pratoController  : "/prata"</p>
 <ul>
   <li>Metodo de Request: [GET, POST, PUT]</li>
   <li>Endpoint</li>
