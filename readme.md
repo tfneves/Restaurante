@@ -8,6 +8,7 @@
 <ul>
   <li>Metodo de Request: [GET, POST, PUT]</li>
   <li>Endpoint</li>
+	<li>Variáveis</li>
   <li>Body:</li><br>
   
   ```JSON
