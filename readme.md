@@ -4,7 +4,7 @@
 
 <h3>Nome Rota</h3>
 <h4>Descrição:</h4>
-<p>Breve descrição da rota</p>
+<p> Rota criada - mesaController : "/mesa " - </p>
 <ul>
   <li>Metodo de Request: [GET, POST, PUT]</li>
   <li>Endpoint</li>
