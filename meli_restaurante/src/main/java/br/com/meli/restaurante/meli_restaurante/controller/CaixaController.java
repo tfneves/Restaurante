@@ -20,7 +20,7 @@ public class CaixaController {
 		return ResponseEntity.ok(caixaService.fechaMesa(mesaId));
 	}
 
-	@GetMapping("/")
+	@GetMapping
 	public ResponseEntity<BigDecimal> consultaValorCaixa() {
 		return ResponseEntity.ok(caixaService.getValorTotal());
 	}

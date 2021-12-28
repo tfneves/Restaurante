@@ -17,7 +17,7 @@ public class TestCaixaDTO {
 		System.out.println("c2: " + c2.getValorTotal());
 		System.out.println("c3: " + c3.getValorTotal());
 
-		CaixaDTO d = CaixaDTO.converte(c1);
-		System.out.println("d: " + d.getValorTotal());
+		CaixaDTO dto = new CaixaDTO();
+		System.out.println("d: " + dto.getValorTotal());
 	}
 }

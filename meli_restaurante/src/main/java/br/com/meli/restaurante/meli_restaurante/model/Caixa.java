@@ -2,11 +2,9 @@ package br.com.meli.restaurante.meli_restaurante.model;
 
 import java.math.BigDecimal;
 
-import lombok.Builder;
 import lombok.Data;
 
 @Data
-@Builder
 public class Caixa {
 	private BigDecimal valorTotal;
 
@@ -27,5 +25,4 @@ public class Caixa {
 		}
 		return caixaInstancia;
 	}
-
 }

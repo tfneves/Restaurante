@@ -14,6 +14,7 @@ public class CaixaService {
 	}
 
 	public BigDecimal getValorTotal() {
-		return CaixaDTO.getInstance().getValorTotal();
+		CaixaDTO dto = new CaixaDTO();
+		return dto.getValorTotal();
 	}
 }
