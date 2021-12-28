@@ -1,33 +1,52 @@
-<h1>Rotas Restaurante</h1>
+# Rotas Restaurante
 
 <!-- COPIAR MODELO ROTA -->
 
-<h3>Nome Rota</h3>
-<h4>Descrição:</h4>
-<p> Rota criada - mesaController   : "/mesa"</p>
-<p> Rota criada - pedidoController : "/pedido"</p>
-<p> Rota criada - pratoController  : "/prato"</p>
-<ul>
-  <li>Metodo de Request: [GET, POST, PUT]</li>
-  <li>Endpoint</li>
-	<li>Variáveis</li>
-  <li>Body:</li><br>
-  
-  ```JSON
-  { 
-    "teste": "teste", 
-    "teste2": "teste2" 
-  }
-  ```
-  
-  <li>Response:</li><br>
-  
-  ```JSON
-  { 
-    "teste": "teste", 
-    "teste2": "teste2" 
-  }
-  ```
-</ul>
+### [PREENCHER] Nome Rota
+#### Descrição:
+[PREENCHER] Breve descrição da rota
 
+<br>
+
+#### Informações do Endpoint
+
+* Metodo de Request:
+```bash
+  [PREENCHER] EX: GET, POST, PUT, PATCH
+	
+  ```
+
+* URI Endpoint
+```text
+  [PREENCHER] /teste/teste
+	
+  ```
+
+* Parâmetros (Somente GET - QueryString)
+```bash
+  [PREENCHER] Parametro1, Parametro2, etc...
+	
+  ```
+
+* Body:
+```JSON
+[PREENCHER]
+  { 
+    "teste": "teste", 
+    "teste2": "teste2" 
+  }
+  ```
+  
+* Response:
+  
+```JSON
+[PREENCHER]
+{ 
+	"teste": "teste", 
+	"teste2": "teste2" 
+}
+```
+
+<hr>
+<br>
 <!-- COPIAR MODELO ROTA -->
